@@ -1,6 +1,6 @@
 # Quiz_App
 
-A new Flutter project.
+An app used to conduct quizes.
 
 ## Getting Started
 
